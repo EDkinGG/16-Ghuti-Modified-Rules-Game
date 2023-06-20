@@ -59,12 +59,12 @@ Figure: Modified Board with Initial Arrangement
 </p>
 
 <h2>Game Screen Shot</h2>
-Sample UI of the APP:<br>
+Sample UI of the Game:<br><br>
 <p align = center >
-<img src = "images/Game play/MainMenu.PNG" alt = "MainMenu" title = "MainMenu" width = "300" >
-<img src = "images/Game play/initial Stage.PNG" alt = "Initial State" title = "Initial State" width = "270" >
+<img src = "images/Game play/MainMenu.PNG" alt = "MainMenu" title = "MainMenu" height = "410" >
+<img src = "images/Game play/initial Stage.PNG" alt = "Initial State" title = "Initial State" height = "410" >
 </p>
 <p align = center >
-<img src = "images/Game play/WinningScreen.PNG" alt = "All Moves" title = "All Moves" width = "300" >
-<img src = "images/Game play/all_moves.PNG" alt = "All Moves" title = "All Moves" width = "270" >
+<img src = "images/Game play/WinningScreen.PNG" alt = "All Moves" title = "All Moves" height = "410" >
+<img src = "images/Game play/all_moves.PNG" alt = "All Moves" title = "All Moves" height = "410" >
 </p>
