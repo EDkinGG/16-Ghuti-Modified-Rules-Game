@@ -14,4 +14,4 @@ Each players has 16 beads called Ghuti. The player who captures all the 16 piece
 	<li>The captured pieces are removed from the board.</li>
 	<li>The player who captures all the 16 pieces of opponent wins the game. </li>
 </ul>
-<img src = "images/Basic_Style" alt = "Basic Board" title = "Basic Board" width = "270" align = center >
+<img src = "images/Basic_Style.png" alt = "Basic Board" title = "Basic Board" width = "270" align = center >
