@@ -63,17 +63,17 @@ Alpha Beta Decision Tree for Depth 2 for a Specific State<br><br>
 <img src = "images/Tree.PNG" alt = "Tree" title = "Tree" width = "800" >
 </p>
 <p align = center >
-<img src = "images/initial.png" alt = "All Moves" title = "All Moves" height = "270" >
+<img src = "images/initial.png" alt = "Initial State" title = "Initial State" width = "270" >
 </p>
 <p align = center >
-<img src = "images/R1-R.png" alt = "R1-R" title = "R1-R" height = "270" >
-<img src = "images/R2-D.png" alt = "R2-D" title = "R2-D" height = "270" >
-<img src = "images/R3-L.png" alt = "R3-L" title = "R3-L" height = "270" >
+<img src = "images/R1-R.png" alt = "R1-R" title = "R1-R" width = "270" >
+<img src = "images/R2-D.png" alt = "R2-D" title = "R2-D" width = "270" >
+<img src = "images/R3-L.png" alt = "R3-L" title = "R3-L" width = "270" >
 </p>
 <p align = center >
-<img src = "images/R3-R.png" alt = "R3-R" title = "R3-R" height = "270" >
-<img src = "images/R4-D.png" alt = "R4-D" title = "R4-D" height = "270" >
-<img src = "images/R5-R.png" alt = "R5-R" title = "R5-R" height = "270" >
+<img src = "images/R3-R.png" alt = "R3-R" title = "R3-R" width = "270" >
+<img src = "images/R4-D.png" alt = "R4-D" title = "R4-D" width = "270" >
+<img src = "images/R5-R.png" alt = "R5-R" title = "R5-R" width = "270" >
 </p>
 
 <h2>Game Screen Shot</h2>
