@@ -15,7 +15,7 @@ Each players has 16 beads called Ghuti. The player who captures all the 16 piece
 	<li>The player who captures all the 16 pieces of opponent wins the game. </li>
 </ul>
 <p align = center>
-<img src = "images/Basic_Style.png" alt = "Basic Board" title = "Basic Board" width = "270">
+<img src = "images/Basic_Style.png" alt = "Basic Board" title = "Basic Board" width = "300">
 <br>
 Figure: Basic Board and Initial Arrangement
 </p>
@@ -32,7 +32,7 @@ Figure: Basic Board and Initial Arrangement
 	<li>Once a bead is placed on the main board it will folow the normal rules of sholo ghuti</li>
 </ul>
 <p align = center>
-<img src = "images/Game play/initial Stage.PNG" alt = "Modified Board" title = "Modfied Board" width = "270">
+<img src = "images/Game play/initial Stage.PNG" alt = "Modified Board" title = "Modfied Board" width = "300">
 <br>
 Figure: Modified Board with Initial Arrangement
 </p>

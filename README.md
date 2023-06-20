@@ -19,6 +19,11 @@ Each players has 16 beads called Ghuti. The player who captures all the 16 piece
 <br>
 Figure: Basic Board and Initial Arrangement
 </p>
+<p align = center>
+<img src = "images/Capture_Example.PNG" alt = "Basic Board" title = "Basic Board" height = "410">
+<br>
+Figure: Capture Example
+</p>
 
 
 <h2>Modified Rules in This Sholo Ghuti Game</h2>
