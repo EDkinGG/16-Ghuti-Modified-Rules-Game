@@ -41,3 +41,14 @@ Figure: Capture Example
 <br>
 Figure: Modified Board with Initial Arrangement
 </p>
+
+<h2>AI Development</h2>
+<p>Initially we had used minimax algorithm to develop our AI but when the search depth was 3 or more it was very slow. To optimize our algorithm we used pruning method. 
+The Minimax Pruning or Alpha Beta Pruning is an optimized version of normal Minimax algorithm. In Alpha Beta Pruning it decreases the number of nodes that are evaluated by the minimax algorithm in its search tree. </p>
+<p>If you want learn more about Minimax Algorithm and Alpha Beta Pruning check out the links given below:</p>
+<ul>
+	<li><a href = "https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/">GeeksforGeeks - Minimax Algorithm</a></li>
+	<li><a href = "">GeeksforGeeks - Alpha-Beta Pruning </a></li>
+	<li><a href = "https://www.mygreatlearning.com/blog/alpha-beta-pruning-in-ai/">Alpha Beta Pruning in AI</a></li>
+</ul>
+<br>
