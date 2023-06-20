@@ -16,4 +16,23 @@ Each players has 16 beads called Ghuti. The player who captures all the 16 piece
 </ul>
 <p align = center>
 <img src = "images/Basic_Style.png" alt = "Basic Board" title = "Basic Board" width = "270">
+<br>
+Figure: Basic Board and Initial Arrangement
+</p>
+
+
+<h2>Modified Rules in This Sholo Ghuti Game</h2>
+<ul>
+	<li>We added 2 more triangle with 6 slots to the right and the left of the board</li>
+	<li>We also added 2 extra rows on each side of the board (total 4 extra rows). One of the rows consists of 9 slots and other one consists of 7 slots.</li>
+	<li>Initially the Beads(pieces) will be placed on the newly added extra 2 rows. Let us call the newly added rows as Stationary Rows</li>
+	<li>From the Stationary Rows a bead can be move to any free slot of the board.</li>
+	<li>In the stationary row the bead which is loacted to the leftmost can only move</li>
+	<li>A bead can not be bring back to stationary row from main board and also a bead can not be moved within the stationary rows</li>
+	<li>Once a bead is placed on the main board it will folow the normal rules of sholo ghuti</li>
+</ul>
+<p align = center>
+<img src = "images/Game play/initial Stage.PNG" alt = "Modified Board" title = "Modfied Board" width = "270">
+<br>
+Figure: Modified Board with Initial Arrangement
 </p>
