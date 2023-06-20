@@ -45,10 +45,26 @@ Figure: Modified Board with Initial Arrangement
 <h2>AI Development</h2>
 <p>Initially we had used minimax algorithm to develop our AI but when the search depth was 3 or more it was very slow. To optimize our algorithm we used pruning method. 
 The Minimax Pruning or Alpha Beta Pruning is an optimized version of normal Minimax algorithm. In Alpha Beta Pruning it decreases the number of nodes that are evaluated by the minimax algorithm in its search tree. </p>
-<p>If you want learn more about Minimax Algorithm and Alpha Beta Pruning check out the links given below:</p>
+<p>If you want to learn more about Minimax Algorithm and Alpha Beta Pruning check out the links given below:</p>
 <ul>
 	<li><a href = "https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/">GeeksforGeeks - Minimax Algorithm</a></li>
 	<li><a href = "">GeeksforGeeks - Alpha-Beta Pruning </a></li>
 	<li><a href = "https://www.mygreatlearning.com/blog/alpha-beta-pruning-in-ai/">Alpha Beta Pruning in AI</a></li>
 </ul>
 <br>
+<p align = center>
+<img src = "images/Game play/initial Stage.PNG" alt = "Modified Board" title = "Modfied Board" width = "300">
+<br>
+Figure: Modified Board with Initial Arrangement
+</p>
+
+<h2>Game Screen Shot</h2>
+Sample UI of the APP:<br>
+<p align = center >
+<img src = "images/Game play/MainMenu.PNG" alt = "MainMenu" title = "MainMenu" width = "300" >
+<img src = "images/Game play/initial Stage.PNG" alt = "Initial State" title = "Initial State" width = "270" >
+</p>
+<p align = center >
+<img src = "images/Game play/WinningScreen.PNG" alt = "All Moves" title = "All Moves" width = "300" >
+<img src = "images/Game play/all_moves.PNG" alt = "All Moves" title = "All Moves" width = "270" >
+</p>
