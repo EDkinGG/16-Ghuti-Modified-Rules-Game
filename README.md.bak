@@ -57,6 +57,24 @@ The Minimax Pruning or Alpha Beta Pruning is an optimized version of normal Mini
 <br>
 Figure: Modified Board with Initial Arrangement
 </p>
+<h2>Alpha Beta Decision Tree</h2>
+Alpha Beta Decision Tree for Depth 2 for a Specific State<br><br>
+<p align = center >
+<img src = "images/tree.PNG" alt = "Tree" title = "Tree" width = "800" >
+</p>
+<p align = center >
+<img src = "images/initial.PNG" alt = "All Moves" title = "All Moves" height = "270" >
+</p>
+<p align = center >
+<img src = "images/R1-R.PNG" alt = "R1-R" title = "R1-R" height = "270" >
+<img src = "images/R2-D.PNG" alt = "R2-D" title = "R2-D" height = "270" >
+<img src = "images/R3-L.PNG" alt = "R3-L" title = "R3-L" height = "270" >
+</p>
+<p align = center >
+<img src = "images/R3-R.PNG" alt = "R3-R" title = "R3-R" height = "270" >
+<img src = "images/R4-D.PNG" alt = "R4-D" title = "R4-D" height = "270" >
+<img src = "images/R5-R.PNG" alt = "R5-R" title = "R5-R" height = "270" >
+</p>
 
 <h2>Game Screen Shot</h2>
 Sample UI of the Game:<br><br>
@@ -68,3 +86,19 @@ Sample UI of the Game:<br><br>
 <img src = "images/Game play/WinningScreen.PNG" alt = "All Moves" title = "All Moves" height = "410" >
 <img src = "images/Game play/all_moves.PNG" alt = "All Moves" title = "All Moves" height = "410" >
 </p>
+
+<h2>Development Tools</h2>
+<ul>
+	<li>Windows 10</li>
+	<li>Python 3.11.3 (64 bit)</li>
+	<li>Pygame</li>
+	<li>VS Code</li>
+</ul>
+
+<h2>Installation</h2>
+<ul>
+	<li>Download the full project</li>
+	<li>Intsall Python in your Computer</li>
+	<li>Intsall Pygame</li>
+	<li>Run main.py </li>
+</ul>
