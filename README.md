@@ -58,7 +58,7 @@ The Minimax Pruning or Alpha Beta Pruning is an optimized version of normal Mini
 Figure: Modified Board with Initial Arrangement
 </p>
 <h2>Alpha Beta Decision Tree</h2>
-Alpha Beta Decision Tree for Depth 2 for a Specific State<br><br>
+Alpha Beta Decision Tree for a Specific State ( depth = 2 ) <br><br>
 <p align = center >
 <img src = "images/Tree.PNG" alt = "Tree" title = "Tree" width = "800" >
 </p>
