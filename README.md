@@ -28,7 +28,7 @@ Figure: Capture Example
 
 <h2>Modified Rules in This Sholo Ghuti Game</h2>
 <ul>
-	<li>We added 2 more triangle with 6 slots to the right and the left of the board</li>
+	<li>We added 2 more triangle with 6 slots to the right and left of the board</li>
 	<li>We also added 2 extra rows on each side of the board (total 4 extra rows). One of the rows consists of 9 slots and other one consists of 7 slots.</li>
 	<li>Initially the Beads(pieces) will be placed on the newly added extra 2 rows. Let us call the newly added rows as Stationary Rows</li>
 	<li>From the Stationary Rows a bead can be move to any free slot of the board.</li>
